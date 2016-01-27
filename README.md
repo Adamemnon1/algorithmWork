@@ -14,3 +14,5 @@ CopyOfRange. java - code used for dividing the given (x, y) points into smaller 
   more quickly be calculated over. This file has most of my work.
 
 PointReader.java - utility obect to read in the file of points and place them into arrays.
+
+This repository consists of large sections of code provided to me, and then I wrote the code that implements the actual algorithm.
